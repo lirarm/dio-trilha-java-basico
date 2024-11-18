@@ -3,11 +3,10 @@ public class TipoVariaveis {
         String nomeCompleto = "Ricardo Moreira Lira";
 
         int numeroCasa = 340;
+        System.out.println(numeroCasa);
         long CPF = 79334644168L;
+        System.out.println(CPF);
         double salarioMinimo = 1500.00;
-        date dataNascimento = new date();
-
-
-
+        System.out.println(salarioMinimo);
     }
 }
